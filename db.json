@@ -1,0 +1,15 @@
+{
+  "notas": [
+    {
+      "id": 1,
+      "titulo": "Estudar JS",
+      "status": true
+    }
+  ],
+  "Frutas": [
+    {
+      "id": 1,
+      "titulo": "jhds",
+    }
+  ]
+}
